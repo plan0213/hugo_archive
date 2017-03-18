@@ -1,0 +1,16 @@
+baseurl = "http://blog.plan0213.com/"
+languageCode = "ja"
+title = "blog.plan0213"
+theme = "honokichi"
+author = "plan0213"
+
+[params]
+	logo = "/images/thumb.png"
+	copyright = "plan0213 All rights reserved."
+
+[params.social]
+# 	github = "plan0213"
+#	twitter_id = "plan0213"
+
+[Indexes]
+	tag = "tags"
